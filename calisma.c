@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("Hello World");
+    printf("Test GitHub");
 
+    getchar();
     return 0;
 }
